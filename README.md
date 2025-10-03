@@ -122,5 +122,3 @@ This project is released under the [MIT License](LICENSE).
 ---
 
 ✍️ Author: *[Akanksha Sawant]*
-
-```
