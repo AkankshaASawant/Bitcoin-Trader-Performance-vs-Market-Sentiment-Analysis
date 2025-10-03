@@ -6,7 +6,7 @@ We combine the **Fear & Greed Index** with historical trader data to measure pro
 ---
 
 ## 📂 Project Structure
-
+```bash
 ├── data/
 │ ├── fear_greed_index.csv # daily sentiment data
 │ └── historical_trader_data.csv # raw trader records
@@ -20,7 +20,7 @@ We combine the **Fear & Greed Index** with historical trader data to measure pro
 │ └── detailed_analysis.png # charts: top traders, weekdays
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
@@ -51,9 +51,9 @@ Open `Data_Science_Task.ipynb` and run the cells.
 
 ---
 
-## 📦 Requirements
-
 ```
+### 📦 Requirements
+```bash
 pandas
 numpy
 matplotlib
